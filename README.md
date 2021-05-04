@@ -18,3 +18,13 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+----
+
+### Next steps
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![django](https://img.shields.io/badge/-django-092E20?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/-React-gray?style=flat-square&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
