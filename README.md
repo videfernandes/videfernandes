@@ -20,7 +20,9 @@ These are some of the technologies and tools that I work with:
 
 ----
 
-### Next steps
+### Next steps 👣
+These are some technologies that I will soon be learning:
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![django](https://img.shields.io/badge/-django-092E20?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/-React-gray?style=flat-square&logo=react)
