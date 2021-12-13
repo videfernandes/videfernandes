@@ -1,6 +1,6 @@
 ### Hello 👋
 I'm Virgínia de Fernandes, and I'm a Software Engineer student at Goias Federal University. I'm from Brazil, and I'm currently living in Goiânia/GO.
-- 🌱 I’m currently learning ... Angular 2, JavaScript, TypeScript, Bootstrap, Css3, Sass, Materialize
+- 🌱 I’m currently learning ... Python and SQL
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I'm also a biologist
 ----
