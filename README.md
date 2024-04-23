@@ -1,28 +1,43 @@
-### Hello 👋
-I'm Virgínia de Fernandes, and I'm a Software Engineer student at Goias Federal University. I'm from Brazil, and I'm currently living in Goiânia/GO.
-- 🌱 I’m currently learning ... Python and SQL
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I'm also a biologist
-----
-<div>
-  <a href="https://github.com/videfernandes">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=videfernandes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
-  
-----
-### ⚡ Technologies ⚡
-These are some of the technologies and tools that I work with:
+## Hello, I'm Virgínia 👋
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-circle&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### About Me
+- 🎓 Graduated in Software Engineering from the Federal University of Goiás.
+- 💻 Currently working as a Machine Learning Engineer, proficient in Python, SQL, Docker, GCP, and PySpark.
+- 😄 Pronouns: ... She/Her
+- 🌱 Also hold a background in biology, where my journey with data began.
+
+----
+### What I Do
+- 🔭 Passionate about leveraging data to solve complex problems.
+- 🚀 Specialize in building and deploying machine learning models for various applications.
+- 📊 Experienced in data analysis, visualization, and interpretation from my biology background.
+
+----
+
+### Get in Touch
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/virgínia-de-fernandes-6a00b939/) for collaborations or inquiries.
+- 💬 Let's connect and discuss how we can utilize data to make a difference in the world.
+
+----
+
+
+[![My Stats](https://github-readme-stats.vercel.app/api/?username=videfernandes&count_private=true&theme=highcontrast&showicons=true)]()
+
+
+
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=videfernandes&langs_count=5&theme=highcontrast)]()
+
+
+----
+
+### ⚡ Technologies I Use ⚡
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,flask,git,github,githubactions,kafka,linux,docker,vscode,gcp,html,css" />
+  </a>
+</p>
+
+
 
 ----
 
@@ -30,5 +45,10 @@ These are some of the technologies and tools that I work with:
 These are some technologies that I will soon be learning:
 
 
-![django](https://img.shields.io/badge/-django-092E20?style=flat-square&logo=django)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,azure,aws" />
+  </a>
+</p>
+
 
